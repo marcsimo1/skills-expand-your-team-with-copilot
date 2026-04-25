@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "⚡ PLUS ULTRA! Your destiny as a true manga fan begins HERE! 📖 Whether you're a legendary S-rank otaku or an unawakened rookie, this is your guild to power up! We battle over the best story arcs, unravel shocking plot twists, channel our inner shōnen spirit, and debate who the REAL strongest character is. Your next chapter starts now — will you answer the call?! 🔥",
+        "schedule": "Tuesdays, 7:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00",
+            "end_time": "20:00"
+        },
+        "max_participants": 15,
+        "participants": []
     }
 }
 
